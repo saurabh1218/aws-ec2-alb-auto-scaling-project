@@ -1,0 +1,14 @@
+# Secrets and private keys
+*.pem
+*.key
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
