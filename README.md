@@ -173,9 +173,6 @@ After testing:
 
 Stopping EC2 does not stop charges for every associated resource; an ALB and certain storage/network resources can continue to incur charges.
 
-## Screenshots
-
-Add your own screenshots to `screenshots/` after removing or hiding account IDs, public IPs, DNS names, and other details you do not want to publish. Do not upload private keys, credentials, or account secrets.
 
 ## Resume bullet (use only after you have verified the implementation)
 
